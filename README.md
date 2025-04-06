@@ -1,7 +1,9 @@
 The wine dataset (related to the wine making process) used for this project was obtained from Kaggle. This dataset contains 4,898 white wines and has 12 fundamental features which are responsible for affecting the quality of the wine. 
 
 This dataset has 12 features that determines the quality of the wine. 
+
 • Fixed acidity is a measurement of the total concentration of titratable acids and free hydrogen ions present in the wine. 
+
 • Volatile acidity which is mostly caused by bacteria in the wine creating acetic acid, could be an indicator of spoilage, or errors in the manufacturing processes — caused by things like damaged grapes, wine exposed to air, and so on. 
 • Citric acid acts as a preservative and is added to wines to increase acidity, complement a specific flavour or prevent ferric hazes. 
 • Residual Sugar refers to any natural grape sugars that are left over after fermentation ceases. 
